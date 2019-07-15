@@ -69,7 +69,7 @@ B 300 300 1600 2700 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 1800 3100 8 10 1 1 0 6 1
 refdes=U?
 T 300 7600 5 10 0 0 0 0 1
-description=ATmega328
+description=MAX15462
 T 400 7800 5 10 0 0 0 0 1
 dist-license=GPL
 T 400 8000 5 10 0 0 0 0 1
