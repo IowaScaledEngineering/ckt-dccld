@@ -1,0 +1,4 @@
+schematics ckt-dccld.sch
+output-name ../pcb/ckt-dccld
+skip-m4
+elements-dir ../../../footprints
